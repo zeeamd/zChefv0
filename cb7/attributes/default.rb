@@ -1,0 +1,5 @@
+default['cb7']['rpmpath'] = '/root/CST1/cookbooks/cb7/rpmdump'
+default['cb7']['pkguninstall']='jdk1.8-2000:1.8.0_171-fcs.x86_64'
+default['cb7']['envfilepath']='/root/CST1/cookbooks/cb7/nodeshells'
+default['cb7']['jenvfile']='nodenv.sh'
+default['cb7']['mvnpath']='/opt/maven'
